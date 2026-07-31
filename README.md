@@ -110,6 +110,4 @@
   <img src="https://komarev.com/ghpvc/?username=AdilMalik14912&label=Profile%20views&color=F7A523&style=flat-square" alt="Profile views" />
 </p>
 
-<p align="center">
-  <i>⚡ "Great things are not done by impulse, but by a series of small commits."</i>
-</p>
+<p align="center">⚡ <i>Building the future of Indian e-commerce, one commit at a time.</i></p>
