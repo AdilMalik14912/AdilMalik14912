@@ -96,8 +96,20 @@
 
 ---
 
+<h3 align="left">🐍 Coding Journey — Watch the Snake Eat My Contributions:</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdilMalik14912/AdilMalik14912/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdilMalik14912/AdilMalik14912/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdilMalik14912/AdilMalik14912/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdilMalik14912&label=Profile%20views&color=F7A523&style=flat-square" alt="Profile views" />
 </p>
 
-<p align="center">⚡ <i>Building the future of Indian e-commerce, one commit at a time.</i></p>
+<p align="center">
+  <i>⚡ "Great things are not done by impulse, but by a series of small commits."</i>
+</p>
