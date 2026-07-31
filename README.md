@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Adil Malik</h1>
-<h3 align="center">🚀 Full-Stack Developer | Working @ Lekya Logistics & ParcelUncle | New Delhi, India</h3>
+<h3 align="center">🚀 Full-Stack Developer & Entrepreneur | New Delhi, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A523&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Node.js+%7C+Next.js;Working+%40+Lekya+Logistics+%26+ParcelUncle;Building+lekya.in+%E2%80%94+Premium+Eyewear+Platform;React+%7C+MySQL+%7C+Express.js+%7C+REST+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A523&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Entrepreneur;Building+lekya.in+%E2%80%94+Premium+Eyewear+Platform;Building+%40+Lekya+Logistics+%26+ParcelUncle;Node.js+%7C+Next.js+%7C+React+%7C+MySQL" alt="Typing SVG" />
 </p>
 
 ---
 
 - 🔭 I'm currently working on **[lekya.in](https://lekya.in)** — Premium Eyewear E-Commerce Platform
 
-- 🏢 Working as **Full-Stack Developer @ [ParcelUncle](https://parceluncle.com)** — Pan-India Courier Aggregator & Logistics Network
+- 🏢 Building **[ParcelUncle](https://parceluncle.com)** — Pan-India Courier Aggregator & Logistics Network
 
-- 🚚 Working as **Full-Stack Developer @ Lekya Logistics** — Hyperlocal Last-Mile Delivery Solution
+- 🚚 Building **Lekya Logistics** — Hyperlocal Last-Mile Delivery Solution
 
 - 🌱 I'm currently learning **Docker, Kubernetes, AWS & System Design**
 
