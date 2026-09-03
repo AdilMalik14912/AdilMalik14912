@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://github.com/AdilMalik14912"><img src="https://img.shields.io/github/followers/AdilMalik14912?label=Followers&style=for-the-badge&color=F7A523&logo=github" alt="GitHub Followers"/></a>
-  <a href="https://parceluncle.com"><img src="https://img.shields.io/badge/ParcelUncle-Live-00D26A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="ParcelUncle Status"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Courier_Uncle-Live-1A73E8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Courier Uncle Status"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Lekya_Energy-Active-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Lekya Energy Status"/></a>
-  <a href="https://lekya.in"><img src="https://img.shields.io/badge/lekya.in-Live-F7A523?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Lekya Status"/></a>
+  <a href="https://github.com/LekyaLogistics/parceluncle"><img src="https://img.shields.io/badge/ParcelUncle-Live-00D26A?style=for-the-badge&logo=github&logoColor=white" alt="ParcelUncle Status"/></a>
+  <a href="https://github.com/LekyaLogistics/courier-uncle"><img src="https://img.shields.io/badge/Courier_Uncle-Live-1A73E8?style=for-the-badge&logo=github&logoColor=white" alt="Courier Uncle Status"/></a>
+  <a href="https://github.com/LekyaLogistics/LEKYA-ENERGY"><img src="https://img.shields.io/badge/Lekya_Energy-Active-34A853?style=for-the-badge&logo=github&logoColor=white" alt="Lekya Energy Status"/></a>
+  <a href="https://github.com/LekyaLogistics/LEKYASPECS"><img src="https://img.shields.io/badge/LEKYASPECS-Live-F7A523?style=for-the-badge&logo=github&logoColor=black" alt="LEKYASPECS Status"/></a>
 </p>
 
 ---
@@ -66,17 +66,16 @@ I am a **Full-Stack Developer and Entrepreneur** based in New Delhi, India. I sp
 
 ---
 
-## Ventures & Highlighted Projects
+## Lekya Logistics Organization Repositories
 
-| Venture / Project | Core Architecture & Highlights | Link / Details |
+| Venture / Repository | Core Architecture & Highlights | Repository Link |
 |---|---|---|
-| **ParcelUncle** | Multi-Tenant Enterprise Logistics System (Django 5.2 + Next.js 14). Features 4-Hour Express, Same Day & Next Day delivery, GPS tracking, OTP verification, B2B Credit, Wallet, and COD settlement. | [ParcelUncle](https://parceluncle.com) |
-| **Courier Uncle** | Multi-carrier courier aggregator & dispatch routing engine for seamless delivery operations across Delhi NCR & Pan-India. | [Courier Uncle](#) |
-| **Lekya Energy** | CleanTech & Energy Solutions — Powering sustainable energy infrastructure, EV charging, and power monitoring. | [Lekya Energy](#) |
-| **Lekya Logistics** | Hyperlocal Last-Mile Delivery Network — Operating courier & express delivery operations in Delhi NCR. | [Lekya Logistics](#) |
-| **lekya.in** | Premium online eyewear store featuring AI face shape detection, custom prescription lens selection, and Razorpay payment gateway. | [lekya.in](https://lekya.in) |
-| **parceluncle-express-sdk** | Dispatch & routing SDK for 4-Hour express parcel delivery. | [Repo](https://github.com/AdilMalik14912/parceluncle-express-sdk) |
-| **vision-ar-3d-engine** | WebGL 3D Facial Mesh & optical try-on studio engine. | [Repo](https://github.com/AdilMalik14912/vision-ar-3d-engine) |
+| **LekyaLogistics / parceluncle** | Multi-Tenant Enterprise Logistics System (Django 5.2 + Next.js 14). Features 4-Hour Express, Same Day & Next Day delivery, GPS tracking, OTP verification, B2B Credit, Wallet, and COD settlement. | [LekyaLogistics/parceluncle](https://github.com/LekyaLogistics/parceluncle) |
+| **LekyaLogistics / courier-uncle** | Multi-carrier courier aggregator & dispatch routing engine for seamless delivery operations across Delhi NCR & Pan-India. | [LekyaLogistics/courier-uncle](https://github.com/LekyaLogistics/courier-uncle) |
+| **LekyaLogistics / LEKYA-ENERGY** | CleanTech & Energy Solutions — Powering sustainable energy infrastructure, EV charging, and power monitoring. | [LekyaLogistics/LEKYA-ENERGY](https://github.com/LekyaLogistics/LEKYA-ENERGY) |
+| **LekyaLogistics / LEKYASPECS** | Premium online eyewear store featuring AI face shape detection, custom prescription lens selection, and Razorpay payment gateway. | [LekyaLogistics/LEKYASPECS](https://github.com/LekyaLogistics/LEKYASPECS) |
+| **LekyaLogistics / LekyaLogistics** | Enterprise Backend Engine & Django Administration APIs. | [LekyaLogistics/LekyaLogistics](https://github.com/LekyaLogistics/LekyaLogistics) |
+| **LekyaLogistics / rider-app** | Rider Mobile Application for real-time delivery management, GPS updates, and POD photo capture. | [LekyaLogistics/rider-app](https://github.com/LekyaLogistics/rider-app) |
 
 ---
 
@@ -106,10 +105,10 @@ I am a **Full-Stack Developer and Entrepreneur** based in New Delhi, India. I sp
 ## Connect With Me
 
 <p align="center">
-  <a href="https://parceluncle.com" target="_blank"><img src="https://img.shields.io/badge/ParcelUncle-00D26A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="ParcelUncle"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Courier_Uncle-1A73E8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Courier Uncle"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Lekya_Energy-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Lekya Energy"/></a>
-  <a href="https://lekya.in" target="_blank"><img src="https://img.shields.io/badge/lekya.in-F7A523?style=for-the-badge&logo=google-chrome&logoColor=black" alt="lekya.in"/></a>
+  <a href="https://github.com/LekyaLogistics/parceluncle"><img src="https://img.shields.io/badge/ParcelUncle-00D26A?style=for-the-badge&logo=github&logoColor=white" alt="ParcelUncle"/></a>
+  <a href="https://github.com/LekyaLogistics/courier-uncle"><img src="https://img.shields.io/badge/Courier_Uncle-1A73E8?style=for-the-badge&logo=github&logoColor=white" alt="Courier Uncle"/></a>
+  <a href="https://github.com/LekyaLogistics/LEKYA-ENERGY"><img src="https://img.shields.io/badge/Lekya_Energy-34A853?style=for-the-badge&logo=github&logoColor=white" alt="Lekya Energy"/></a>
+  <a href="https://github.com/LekyaLogistics/LEKYASPECS"><img src="https://img.shields.io/badge/LEKYASPECS-F7A523?style=for-the-badge&logo=github&logoColor=black" alt="LEKYASPECS"/></a>
   <a href="mailto:hey.adilmalik@gmail.com"><img src="https://img.shields.io/badge/Primary_Email-hey.adilmalik%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary Email"/></a>
   <a href="mailto:am8386757@gmail.com"><img src="https://img.shields.io/badge/Email-am8386757%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
